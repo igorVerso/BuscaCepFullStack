@@ -48,7 +48,10 @@ PASSO1: Precisa do arquivo de conexão do Firestore Database(firebase),nesse cas
 PASSO2: Conseguindo o arquivo do firebase basta criar um file dentro da pasta "backend Node" com o nome "serviceAccountKey.json" e inserir os dados do arquivo que o firebase gerou
 
 
-INFORMAÇÕES DA TABELA DO BANCO QUE PRECISA CRIAR: nome da tabela: cep
+INFORMAÇÕES DA TABELA DO BANCO QUE PRECISA CRIAR: 
+
+
+nome da tabela: cep
 
 
 atributos da tabela: 
