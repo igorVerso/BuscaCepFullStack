@@ -15,7 +15,7 @@ baixe as dependencia do projeto:
 rodar a aplicação:
 
 
-> npm start
+-> npm start
 
 
 A aplicação se encontra na porta http://localhost:3000
