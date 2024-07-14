@@ -1,6 +1,4 @@
-import axios from 'axios';
 import express from 'express'
-import { response } from 'express';
 import admin from 'firebase-admin'
 
 const app = express();
