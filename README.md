@@ -72,7 +72,10 @@ uf: String
 A aplicação se encontra na porta http://localhost:3001
 
 
-Rodar a aplicação: node server.js 
+Rodar a aplicação: 
+
+
+node server.js 
 
 
 /////////////////////////////////////////////////////////////////////////////////////////////////////
