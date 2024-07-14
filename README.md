@@ -1,3 +1,5 @@
+Intuito da aplicação é um desenvolvimento de um ferramenta Full Stack que busca cep no banco firebase para demonstrar os conhecimento adquiridos na POS Desenvolvimento Full Stack PUCRS.
+
 ///////////////////////////////////////////////FRONTEND///////////////////////////////////////////////
 
 
