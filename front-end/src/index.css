@@ -1,0 +1,20 @@
+*{
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}
+
+@media (max-width: 620px){
+  .title{
+    font-size: 60px;
+  }
+
+  .main h2{
+    font-size: 28px;
+  }
+
+  .main{
+    width: 80%;
+    min-height: 250px;
+  }
+}
